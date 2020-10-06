@@ -13,6 +13,7 @@
 		291D3E982527AB2000127BC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291D3E962527AB2000127BC6 /* Main.storyboard */; };
 		291D3E9A2527AB2100127BC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 291D3E992527AB2100127BC6 /* Assets.xcassets */; };
 		291D3E9D2527AB2100127BC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 291D3E9B2527AB2100127BC6 /* LaunchScreen.storyboard */; };
+		291D3EA52527B61400127BC6 /* MapForIteneary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291D3EA42527B61400127BC6 /* MapForIteneary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		291D3E992527AB2100127BC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		291D3E9C2527AB2100127BC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		291D3E9E2527AB2100127BC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		291D3EA42527B61400127BC6 /* MapForIteneary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForIteneary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				291D3E902527AB2000127BC6 /* AppDelegate.swift */,
 				291D3E922527AB2000127BC6 /* SceneDelegate.swift */,
 				291D3E942527AB2000127BC6 /* ViewController.swift */,
+				291D3EA42527B61400127BC6 /* MapForIteneary.swift */,
 				291D3E962527AB2000127BC6 /* Main.storyboard */,
 				291D3E992527AB2100127BC6 /* Assets.xcassets */,
 				291D3E9B2527AB2100127BC6 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				291D3E952527AB2000127BC6 /* ViewController.swift in Sources */,
+				291D3EA52527B61400127BC6 /* MapForIteneary.swift in Sources */,
 				291D3E912527AB2000127BC6 /* AppDelegate.swift in Sources */,
 				291D3E932527AB2000127BC6 /* SceneDelegate.swift in Sources */,
 			);
